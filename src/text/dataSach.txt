@@ -1,0 +1,2 @@
+TV, BOOK1, Ngon ngu lap trinh C++, Tong Dinh Quy, NXB Thong Ke, 500000, 100
+NV, BOOK2, Clean Code, Robert C.Martin, NXB X, 250000,150
